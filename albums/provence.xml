@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlbumDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Images>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061010.125533.jpg</SourcePath>
+      <DateTaken>2006-10-10T12:55:33</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061010.125533.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061010.125533.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061010.125533.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061010.125533.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061010.125533.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061010.125533.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061011.074927.jpg</SourcePath>
+      <DateTaken>2006-10-11T07:49:27</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061011.074927.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061011.074927.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061011.074927.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061011.074927.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061011.074927.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061011.074927.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061011.082250.jpg</SourcePath>
+      <DateTaken>2006-10-11T08:22:50</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061011.082250.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061011.082250.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061011.082250.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061011.082250.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061011.082250.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061011.082250.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.020835.jpg</SourcePath>
+      <DateTaken>2006-10-12T02:08:35</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.020835.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.020835.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.020835.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.020835.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.020835.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.020835.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.060632.jpg</SourcePath>
+      <DateTaken>2006-10-12T06:06:32</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.060632.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.060632.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.060632.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.060632.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.060632.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.060632.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.070614.jpg</SourcePath>
+      <DateTaken>2006-10-12T07:06:14</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.070614.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.070614.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.070614.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.070614.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.070614.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.070614.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.071316.jpg</SourcePath>
+      <DateTaken>2006-10-12T07:13:16</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.071316.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.071316.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.071316.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.071316.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.071316.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.071316.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.071621.jpg</SourcePath>
+      <DateTaken>2006-10-12T07:16:21</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.071621.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.071621.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.071621.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.071621.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.071621.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.071621.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.074400.jpg</SourcePath>
+      <DateTaken>2006-10-12T07:44:00</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.074400.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.074400.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.074400.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.074400.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.074400.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.074400.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.113736.jpg</SourcePath>
+      <DateTaken>2006-10-12T11:37:36</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.113736.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.113736.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.113736.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.113736.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.113736.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.113736.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.114222.jpg</SourcePath>
+      <DateTaken>2006-10-12T11:42:22</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.114222.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.114222.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.114222.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.114222.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.114222.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.114222.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061012.125008.jpg</SourcePath>
+      <DateTaken>2006-10-12T12:50:08</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.125008.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.125008.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.125008.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.125008.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061012.125008.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061012.125008.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061013.022441.jpg</SourcePath>
+      <DateTaken>2006-10-13T02:24:41</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.022441.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.022441.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.022441.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.022441.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.022441.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.022441.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061013.040428.jpg</SourcePath>
+      <DateTaken>2006-10-13T04:04:28</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.040428.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.040428.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.040428.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.040428.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.040428.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.040428.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061013.090951.jpg</SourcePath>
+      <DateTaken>2006-10-13T09:09:51</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.090951.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.090951.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.090951.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.090951.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061013.090951.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061013.090951.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061014.011312.jpg</SourcePath>
+      <DateTaken>2006-10-14T01:13:12</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.011312.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.011312.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.011312.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.011312.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.011312.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.011312.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061014.024110.jpg</SourcePath>
+      <DateTaken>2006-10-14T02:41:10</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.024110.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.024110.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.024110.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.024110.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.024110.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.024110.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061014.025236.jpg</SourcePath>
+      <DateTaken>2006-10-14T02:52:36</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.025236.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.025236.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.025236.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.025236.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.025236.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.025236.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061014.035822.jpg</SourcePath>
+      <DateTaken>2006-10-14T03:58:22</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.035822.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.035822.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.035822.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.035822.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.035822.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.035822.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061014.075112.jpg</SourcePath>
+      <DateTaken>2006-10-14T07:51:12</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.075112.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.075112.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.075112.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.075112.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.075112.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.075112.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061014.075143.jpg</SourcePath>
+      <DateTaken>2006-10-14T07:51:43</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.075143.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.075143.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.075143.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.075143.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061014.075143.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061014.075143.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061015.070057.jpg</SourcePath>
+      <DateTaken>2006-10-15T07:00:57</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.070057.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.070057.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.070057.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.070057.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.070057.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.070057.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061015.072432.jpg</SourcePath>
+      <DateTaken>2006-10-15T07:24:32</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.072432.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.072432.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.072432.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.072432.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.072432.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.072432.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061015.073651.jpg</SourcePath>
+      <DateTaken>2006-10-15T07:36:51</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.073651.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.073651.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.073651.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.073651.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.073651.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.073651.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061015.074416.jpg</SourcePath>
+      <DateTaken>2006-10-15T07:44:16</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.074416.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.074416.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.074416.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.074416.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.074416.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.074416.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061015.074519.jpg</SourcePath>
+      <DateTaken>2006-10-15T07:45:19</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.074519.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.074519.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.074519.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.074519.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.074519.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.074519.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061015.075636.jpg</SourcePath>
+      <DateTaken>2006-10-15T07:56:36</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.075636.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.075636.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.075636.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.075636.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061015.075636.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061015.075636.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061016.071950.jpg</SourcePath>
+      <DateTaken>2006-10-16T07:19:50</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.071950.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.071950.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.071950.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.071950.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.071950.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.071950.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061016.073542.jpg</SourcePath>
+      <DateTaken>2006-10-16T07:35:42</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.073542.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.073542.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.073542.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.073542.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.073542.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.073542.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061016.074115.jpg</SourcePath>
+      <DateTaken>2006-10-16T07:41:15</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.074115.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.074115.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.074115.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.074115.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061016.074115.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061016.074115.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Provence\20061017.061450.jpg</SourcePath>
+      <DateTaken>2006-10-17T06:14:50</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061017.061450.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061017.061450.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061017.061450.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061017.061450.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence\20061017.061450.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Provence/20061017.061450.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Provence</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Provence</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+  </Images>
+  <Name>Provence</Name>
+  <SourcePath>C:\Documents\My Pictures\Albums\Provence</SourcePath>
+  <Latitude>51.500194</Latitude>
+  <Longitude>-0.129089</Longitude>
+  <BaseUrl>http://brynkim.com/Albums</BaseUrl>
+  <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums</OutputFolder>
+</AlbumDetails>

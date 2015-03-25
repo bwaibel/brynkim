@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlbumDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Images>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.023011.jpg</SourcePath>
+      <DateTaken>2006-09-19T02:30:11</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.023011.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.023011.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.023011.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.023011.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.023011.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.023011.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.071250.jpg</SourcePath>
+      <DateTaken>2006-09-19T07:12:50</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.071250.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.071250.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.071250.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.071250.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.071250.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.071250.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.074126.jpg</SourcePath>
+      <DateTaken>2006-09-19T07:41:26</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.074126.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.074126.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.074126.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.074126.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.074126.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.074126.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.074549.jpg</SourcePath>
+      <DateTaken>2006-09-19T07:45:49</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.074549.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.074549.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.074549.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.074549.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.074549.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.074549.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.100029.jpg</SourcePath>
+      <DateTaken>2006-09-19T10:00:29</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.100029.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.100029.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.100029.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.100029.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.100029.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.100029.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.105459.jpg</SourcePath>
+      <DateTaken>2006-09-19T10:54:59</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.105459.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.105459.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.105459.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.105459.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.105459.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.105459.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.105908.jpg</SourcePath>
+      <DateTaken>2006-09-19T10:59:08</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.105908.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.105908.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.105908.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.105908.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.105908.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.105908.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.110424.jpg</SourcePath>
+      <DateTaken>2006-09-19T11:04:24</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.110424.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.110424.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.110424.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.110424.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.110424.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.110424.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060919.113623.jpg</SourcePath>
+      <DateTaken>2006-09-19T11:36:23</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.113623.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.113623.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.113623.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.113623.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060919.113623.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060919.113623.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.004142.jpg</SourcePath>
+      <DateTaken>2006-09-20T00:41:42</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.004142.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.004142.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.004142.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.004142.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.004142.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.004142.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.011650.jpg</SourcePath>
+      <DateTaken>2006-09-20T01:16:50</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.011650.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.011650.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.011650.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.011650.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.011650.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.011650.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.012426.jpg</SourcePath>
+      <DateTaken>2006-09-20T01:24:26</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.012426.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.012426.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.012426.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.012426.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.012426.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.012426.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.040233.jpg</SourcePath>
+      <DateTaken>2006-09-20T04:02:33</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.040233.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.040233.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.040233.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.040233.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.040233.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.040233.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.041511.jpg</SourcePath>
+      <DateTaken>2006-09-20T04:15:11</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.041511.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.041511.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.041511.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.041511.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.041511.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.041511.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.064915.jpg</SourcePath>
+      <DateTaken>2006-09-20T06:49:15</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.064915.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.064915.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.064915.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.064915.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.064915.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.064915.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.072056.jpg</SourcePath>
+      <DateTaken>2006-09-20T07:20:56</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.072056.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.072056.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.072056.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.072056.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.072056.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.072056.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.072344.jpg</SourcePath>
+      <DateTaken>2006-09-20T07:23:44</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.072344.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.072344.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.072344.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.072344.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.072344.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.072344.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.073027.jpg</SourcePath>
+      <DateTaken>2006-09-20T07:30:27</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.073027.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.073027.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.073027.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.073027.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.073027.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.073027.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.073525.jpg</SourcePath>
+      <DateTaken>2006-09-20T07:35:25</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.073525.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.073525.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.073525.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.073525.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.073525.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.073525.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.080919.jpg</SourcePath>
+      <DateTaken>2006-09-20T08:09:19</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.080919.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.080919.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.080919.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.080919.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.080919.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.080919.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.081520.jpg</SourcePath>
+      <DateTaken>2006-09-20T08:15:20</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.081520.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.081520.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.081520.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.081520.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.081520.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.081520.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.083311.jpg</SourcePath>
+      <DateTaken>2006-09-20T08:33:11</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.083311.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.083311.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.083311.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.083311.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.083311.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.083311.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.083945.jpg</SourcePath>
+      <DateTaken>2006-09-20T08:39:45</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.083945.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.083945.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.083945.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.083945.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.083945.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.083945.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.120513.jpg</SourcePath>
+      <DateTaken>2006-09-20T12:05:13</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.120513.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.120513.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.120513.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.120513.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.120513.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.120513.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg\20060920.125048.jpg</SourcePath>
+      <DateTaken>2006-09-20T12:50:48</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.125048.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.125048.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.125048.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.125048.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg\20060920.125048.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Rothenburg/20060920.125048.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Rothenburg</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Rothenburg</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+  </Images>
+  <Name>Rothenburg</Name>
+  <SourcePath>C:\Documents\My Pictures\Albums\Rothenburg</SourcePath>
+  <Latitude>51.500194</Latitude>
+  <Longitude>-0.129089</Longitude>
+  <BaseUrl>http://brynkim.com/Albums</BaseUrl>
+  <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums</OutputFolder>
+</AlbumDetails>

@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlbumDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Images>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.003635.jpg</SourcePath>
+      <DateTaken>2006-09-21T00:36:35</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.003635.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.003635.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.003635.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.003635.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.003635.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.003635.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.025849.jpg</SourcePath>
+      <DateTaken>2006-09-21T02:58:49</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.025849.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.025849.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.025849.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.025849.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.025849.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.025849.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.052704.jpg</SourcePath>
+      <DateTaken>2006-09-21T05:27:04</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.052704.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.052704.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.052704.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.052704.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.052704.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.052704.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.055026.jpg</SourcePath>
+      <DateTaken>2006-09-21T05:50:26</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055026.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055026.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055026.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055026.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055026.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055026.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.055232.jpg</SourcePath>
+      <DateTaken>2006-09-21T05:52:32</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055232.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055232.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055232.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055232.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055232.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055232.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.055303.jpg</SourcePath>
+      <DateTaken>2006-09-21T05:53:03</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055303.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055303.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055303.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055303.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055303.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055303.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.055925.jpg</SourcePath>
+      <DateTaken>2006-09-21T05:59:25</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055925.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055925.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055925.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055925.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.055925.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.055925.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.070635.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:06:35</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.070635.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.070635.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.070635.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.070635.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.070635.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.070635.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.072910.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:29:10</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.072910.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.072910.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.072910.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.072910.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.072910.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.072910.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.073514.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:35:14</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073514.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073514.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073514.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073514.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073514.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073514.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.073633.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:36:33</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073633.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073633.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073633.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073633.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073633.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073633.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.073707.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:37:07</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073707.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073707.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073707.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073707.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073707.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073707.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.073937.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:39:37</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073937.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073937.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073937.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073937.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.073937.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.073937.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein\20060921.074803.jpg</SourcePath>
+      <DateTaken>2006-09-21T07:48:03</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.074803.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.074803.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.074803.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.074803.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein\20060921.074803.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Neuswanstein/20060921.074803.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Neuswanstein</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Neuswanstein</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+  </Images>
+  <Name>Neuswanstein</Name>
+  <SourcePath>C:\Documents\My Pictures\Albums\Neuswanstein</SourcePath>
+  <Latitude>51.500194</Latitude>
+  <Longitude>-0.129089</Longitude>
+  <BaseUrl>http://brynkim.com/Albums</BaseUrl>
+  <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums</OutputFolder>
+</AlbumDetails>

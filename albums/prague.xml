@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlbumDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Images>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060923.032330.jpg</SourcePath>
+      <DateTaken>2006-09-23T03:23:30</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060923.032330.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060923.032330.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060923.032330.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060923.032330.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060923.032330.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060923.032330.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060923.060547.jpg</SourcePath>
+      <DateTaken>2006-09-23T06:05:47</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060923.060547.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060923.060547.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060923.060547.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060923.060547.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060923.060547.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060923.060547.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.002043.jpg</SourcePath>
+      <DateTaken>2006-09-24T00:20:43</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.002043.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.002043.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.002043.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.002043.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.002043.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.002043.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.002821.jpg</SourcePath>
+      <DateTaken>2006-09-24T00:28:21</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.002821.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.002821.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.002821.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.002821.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.002821.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.002821.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.003328.jpg</SourcePath>
+      <DateTaken>2006-09-24T00:33:28</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.003328.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.003328.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.003328.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.003328.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.003328.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.003328.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.011717.jpg</SourcePath>
+      <DateTaken>2006-09-24T01:17:17</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.011717.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.011717.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.011717.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.011717.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.011717.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.011717.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.014112.jpg</SourcePath>
+      <DateTaken>2006-09-24T01:41:12</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.014112.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.014112.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.014112.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.014112.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.014112.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.014112.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.015446.jpg</SourcePath>
+      <DateTaken>2006-09-24T01:54:46</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.015446.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.015446.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.015446.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.015446.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.015446.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.015446.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.020429.jpg</SourcePath>
+      <DateTaken>2006-09-24T02:04:29</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.020429.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.020429.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.020429.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.020429.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.020429.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.020429.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.022748.jpg</SourcePath>
+      <DateTaken>2006-09-24T02:27:48</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.022748.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.022748.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.022748.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.022748.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.022748.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.022748.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.031303.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:13:03</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.031303.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.031303.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.031303.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.031303.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.031303.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.031303.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.032449.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:24:49</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032449.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032449.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032449.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032449.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032449.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032449.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.032524.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:25:24</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032524.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032524.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032524.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032524.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032524.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032524.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.032728.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:27:28</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032728.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032728.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032728.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032728.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032728.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032728.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.032829.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:28:29</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032829.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032829.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032829.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032829.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032829.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032829.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.032853.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:28:53</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032853.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032853.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032853.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032853.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.032853.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.032853.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.035928.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:59:28</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.035928.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.035928.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.035928.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.035928.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.035928.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.035928.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.035942.jpg</SourcePath>
+      <DateTaken>2006-09-24T03:59:42</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.035942.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.035942.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.035942.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.035942.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.035942.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.035942.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.043515.jpg</SourcePath>
+      <DateTaken>2006-09-24T04:35:15</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.043515.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.043515.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.043515.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.043515.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.043515.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.043515.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.043600.jpg</SourcePath>
+      <DateTaken>2006-09-24T04:36:00</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.043600.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.043600.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.043600.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.043600.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.043600.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.043600.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.070108.jpg</SourcePath>
+      <DateTaken>2006-09-24T07:01:08</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070108.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070108.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070108.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070108.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070108.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070108.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.070304.jpg</SourcePath>
+      <DateTaken>2006-09-24T07:03:04</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070304.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070304.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070304.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070304.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070304.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070304.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.070441.jpg</SourcePath>
+      <DateTaken>2006-09-24T07:04:41</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070441.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070441.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070441.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070441.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070441.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070441.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.070847.jpg</SourcePath>
+      <DateTaken>2006-09-24T07:08:47</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070847.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070847.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070847.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070847.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070847.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070847.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.070939.jpg</SourcePath>
+      <DateTaken>2006-09-24T07:09:39</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070939.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070939.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070939.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070939.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.070939.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.070939.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.081033.jpg</SourcePath>
+      <DateTaken>2006-09-24T08:10:33</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.081033.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.081033.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.081033.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.081033.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.081033.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.081033.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.113811.jpg</SourcePath>
+      <DateTaken>2006-09-24T11:38:11</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.113811.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.113811.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.113811.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.113811.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.113811.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.113811.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.115020.jpg</SourcePath>
+      <DateTaken>2006-09-24T11:50:20</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.115020.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.115020.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.115020.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.115020.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.115020.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.115020.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.120141.jpg</SourcePath>
+      <DateTaken>2006-09-24T12:01:41</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.120141.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.120141.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.120141.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.120141.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.120141.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.120141.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060924.160530.jpg</SourcePath>
+      <DateTaken>2006-09-24T16:05:30</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.160530.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.160530.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.160530.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.160530.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060924.160530.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060924.160530.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060925.065905.jpg</SourcePath>
+      <DateTaken>2006-09-25T06:59:05</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.065905.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.065905.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.065905.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.065905.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.065905.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.065905.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060925.091818.jpg</SourcePath>
+      <DateTaken>2006-09-25T09:18:18</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.091818.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.091818.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.091818.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.091818.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.091818.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.091818.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060925.104426.jpg</SourcePath>
+      <DateTaken>2006-09-25T10:44:26</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.104426.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.104426.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.104426.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.104426.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060925.104426.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060925.104426.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060926.024723.jpg</SourcePath>
+      <DateTaken>2006-09-26T02:47:23</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.024723.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.024723.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.024723.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.024723.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.024723.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.024723.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060926.054003.jpg</SourcePath>
+      <DateTaken>2006-09-26T05:40:03</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.054003.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.054003.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.054003.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.054003.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.054003.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.054003.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060926.055941.jpg</SourcePath>
+      <DateTaken>2006-09-26T05:59:41</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.055941.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.055941.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.055941.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.055941.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.055941.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.055941.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060926.055958.jpg</SourcePath>
+      <DateTaken>2006-09-26T05:59:58</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.055958.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.055958.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.055958.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.055958.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.055958.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.055958.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060926.061035.jpg</SourcePath>
+      <DateTaken>2006-09-26T06:10:35</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.061035.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.061035.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.061035.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.061035.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.061035.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.061035.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Prague\20060926.072516.jpg</SourcePath>
+      <DateTaken>2006-09-26T07:25:16</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.072516.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.072516.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.072516.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.072516.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague\20060926.072516.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Prague/20060926.072516.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Prague</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Prague</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+  </Images>
+  <Name>Prague</Name>
+  <SourcePath>C:\Documents\My Pictures\Albums\Prague</SourcePath>
+  <Latitude>51.500194</Latitude>
+  <Longitude>-0.129089</Longitude>
+  <BaseUrl>http://brynkim.com/Albums</BaseUrl>
+  <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums</OutputFolder>
+</AlbumDetails>

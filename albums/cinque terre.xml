@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AlbumDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Images>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061007.095257.jpg</SourcePath>
+      <DateTaken>2006-10-07T09:52:57</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061007.095257.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061007.095257.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061007.095257.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061007.095257.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061007.095257.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061007.095257.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061007.100033.jpg</SourcePath>
+      <DateTaken>2006-10-07T10:00:33</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061007.100033.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061007.100033.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061007.100033.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061007.100033.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061007.100033.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061007.100033.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.033046.jpg</SourcePath>
+      <DateTaken>2006-10-08T03:30:46</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.033046.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.033046.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.033046.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.033046.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.033046.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.033046.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.035602.jpg</SourcePath>
+      <DateTaken>2006-10-08T03:56:02</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.035602.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.035602.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.035602.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.035602.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.035602.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.035602.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.040129.jpg</SourcePath>
+      <DateTaken>2006-10-08T04:01:29</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.040129.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.040129.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.040129.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.040129.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.040129.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.040129.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.041214.jpg</SourcePath>
+      <DateTaken>2006-10-08T04:12:14</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.041214.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.041214.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.041214.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.041214.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.041214.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.041214.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.053518.jpg</SourcePath>
+      <DateTaken>2006-10-08T05:35:18</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.053518.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.053518.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.053518.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.053518.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.053518.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.053518.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.055022.jpg</SourcePath>
+      <DateTaken>2006-10-08T05:50:22</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.055022.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.055022.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.055022.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.055022.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.055022.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.055022.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.061933.jpg</SourcePath>
+      <DateTaken>2006-10-08T06:19:33</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.061933.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.061933.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.061933.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.061933.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.061933.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.061933.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.062120.jpg</SourcePath>
+      <DateTaken>2006-10-08T06:21:20</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.062120.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.062120.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.062120.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.062120.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.062120.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.062120.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.064549.jpg</SourcePath>
+      <DateTaken>2006-10-08T06:45:49</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.064549.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.064549.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.064549.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.064549.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.064549.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.064549.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.073936.jpg</SourcePath>
+      <DateTaken>2006-10-08T07:39:36</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.073936.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.073936.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.073936.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.073936.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.073936.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.073936.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061008.081653.jpg</SourcePath>
+      <DateTaken>2006-10-08T08:16:53</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.081653.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.081653.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.081653.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.081653.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061008.081653.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061008.081653.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.032941.jpg</SourcePath>
+      <DateTaken>2006-10-09T03:29:41</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.032941.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.032941.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.032941.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.032941.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.032941.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.032941.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.033034.jpg</SourcePath>
+      <DateTaken>2006-10-09T03:30:34</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.033034.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.033034.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.033034.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.033034.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.033034.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.033034.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.033431.jpg</SourcePath>
+      <DateTaken>2006-10-09T03:34:31</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.033431.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.033431.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.033431.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.033431.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.033431.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.033431.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.035728.jpg</SourcePath>
+      <DateTaken>2006-10-09T03:57:28</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.035728.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.035728.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.035728.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.035728.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.035728.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.035728.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.042711.jpg</SourcePath>
+      <DateTaken>2006-10-09T04:27:11</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.042711.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.042711.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.042711.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.042711.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.042711.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.042711.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.050836.jpg</SourcePath>
+      <DateTaken>2006-10-09T05:08:36</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.050836.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.050836.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.050836.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.050836.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.050836.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.050836.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.055208.jpg</SourcePath>
+      <DateTaken>2006-10-09T05:52:08</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.055208.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.055208.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.055208.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.055208.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.055208.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.055208.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.061954.jpg</SourcePath>
+      <DateTaken>2006-10-09T06:19:54</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.061954.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.061954.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.061954.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.061954.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.061954.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.061954.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.063901.jpg</SourcePath>
+      <DateTaken>2006-10-09T06:39:01</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.063901.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.063901.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.063901.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.063901.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.063901.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.063901.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061009.070512.jpg</SourcePath>
+      <DateTaken>2006-10-09T07:05:12</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.070512.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.070512.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>600</Width>
+          <Height>800</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>600/800</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.070512.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.070512.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>225</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>225/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061009.070512.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061009.070512.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+    <ImageDetails>
+      <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre\20061010.003236.jpg</SourcePath>
+      <DateTaken>2006-10-10T00:32:36</DateTaken>
+      <Sizes>
+        <ImageSize>
+          <MaxWidth>32</MaxWidth>
+          <MaxHeight>32</MaxHeight>
+          <Width>32</Width>
+          <Height>32</Height>
+          <Clip>true</Clip>
+          <SizeName>small</SizeName>
+          <Aspect>32/32</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061010.003236.small.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061010.003236.small.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>1000</MaxWidth>
+          <MaxHeight>800</MaxHeight>
+          <Width>1000</Width>
+          <Height>750</Height>
+          <Clip>false</Clip>
+          <SizeName>large</SizeName>
+          <Aspect>1000/750</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061010.003236.large.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061010.003236.large.jpg</Url>
+        </ImageSize>
+        <ImageSize>
+          <MaxWidth>400</MaxWidth>
+          <MaxHeight>300</MaxHeight>
+          <Width>400</Width>
+          <Height>300</Height>
+          <Clip>false</Clip>
+          <SizeName>medium</SizeName>
+          <Aspect>400/300</Aspect>
+          <OutputPath>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre\20061010.003236.medium.jpg</OutputPath>
+          <Url>http://brynkim.com/Albums/Cinque Terre/20061010.003236.medium.jpg</Url>
+        </ImageSize>
+      </Sizes>
+      <BaseUrl>http://brynkim.com/Albums/Cinque Terre</BaseUrl>
+      <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums\Cinque Terre</OutputFolder>
+      <Valid>true</Valid>
+    </ImageDetails>
+  </Images>
+  <Name>Cinque Terre</Name>
+  <SourcePath>C:\Documents\My Pictures\Albums\Cinque Terre</SourcePath>
+  <Latitude>51.500194</Latitude>
+  <Longitude>-0.129089</Longitude>
+  <BaseUrl>http://brynkim.com/Albums</BaseUrl>
+  <OutputFolder>C:\Documents\Visual Studio 2005\WebSites\Europe\Albums</OutputFolder>
+</AlbumDetails>

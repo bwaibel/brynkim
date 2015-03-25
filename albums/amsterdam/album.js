@@ -1,0 +1,466 @@
+var album_1990069873 = {
+	photos:[],
+	title:'Amsterdam',
+	location:{x:51.500194,y:-0.129089}};
+
+album_1990069873.photos.push({
+	title:'0',
+	description:'0',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060914.090211.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060914.090211.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060914.090211.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'1',
+	description:'1',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060914.101149.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060914.101149.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060914.101149.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'2',
+	description:'2',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.024011.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.024011.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.024011.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'3',
+	description:'3',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.024204.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.024204.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.024204.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'4',
+	description:'4',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.031116.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.031116.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.031116.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'5',
+	description:'5',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.033305.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.033305.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.033305.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'6',
+	description:'6',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.042620.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.042620.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.042620.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'7',
+	description:'7',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.053322.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.053322.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.053322.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'8',
+	description:'8',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.062913.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.062913.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.062913.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'9',
+	description:'9',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.065746.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.065746.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.065746.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'10',
+	description:'10',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.093032.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.093032.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.093032.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'11',
+	description:'11',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.105229.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.105229.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.105229.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'12',
+	description:'12',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.110049.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.110049.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.110049.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'13',
+	description:'13',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.111114.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.111114.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.111114.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'14',
+	description:'14',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.122402.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.122402.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.122402.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'15',
+	description:'15',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.131620.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.131620.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.131620.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'16',
+	description:'16',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.133204.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.133204.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.133204.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'17',
+	description:'17',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.133246.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.133246.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060915.133246.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'18',
+	description:'18',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.031755.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.031755.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.031755.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'19',
+	description:'19',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.031855.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.031855.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.031855.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'20',
+	description:'20',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.034108.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.034108.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.034108.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'21',
+	description:'21',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041047.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041047.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041047.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'22',
+	description:'22',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041442.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041442.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041442.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'23',
+	description:'23',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041716.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041716.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.041716.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'24',
+	description:'24',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.042932.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.042932.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.042932.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'25',
+	description:'25',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.043659.small.jpg'},
+		large:{
+			aspect:600/800,
+			width:600,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.043659.large.jpg'},
+		medium:{
+			aspect:225/300,
+			width:225,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.043659.medium.jpg'}}});
+album_1990069873.photos.push({
+	title:'26',
+	description:'26',
+	sizes:{
+
+		small:{
+			aspect:32/32,
+			width:32,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.095047.small.jpg'},
+		large:{
+			aspect:1000/750,
+			width:1000,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.095047.large.jpg'},
+		medium:{
+			aspect:400/300,
+			width:400,
+			src:'http://brynkim.com/Albums/Amsterdam/20060916.095047.medium.jpg'}}});
+
+writeAlbum(album_1990069873);

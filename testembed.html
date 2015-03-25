@@ -1,0 +1,67 @@
+﻿<html>
+<head></head>
+<body>
+
+<video 
+    src="http://shapeshed.com/examples/HTML5-video-element/video/320x240.m4v"       
+    poster="images/posters/les.jpg" 
+    controls="true" 
+    width="320" 
+    height="240" id="video"> 
+</video> 
+
+<script>
+var evts = [
+"loadstart",
+"progress",
+"suspend",
+"abort",
+"error",
+"emptied",
+"stalled",
+"play",
+"pause",
+"loadedmetadata",
+"loadeddata",
+"waiting",
+"playing",
+"canplay",
+"canplaythrough",
+"seeking",
+"seeked",
+"timeupdate",
+"ended",
+"ratechange",
+"durationchange",
+"volumechange"
+];
+
+var vids = [
+"http://shapeshed.com/examples/HTML5-video-element/video/320x240.m4v",
+"http://brightcove.vo.llnwd.net/d10/unsecured/media/1418551530/1418551530_72180892001_18-trololo.mp4?pub-id=1418551530"
+];
+for(var t in evts) {
+    video.addEventListener(evts[t], onEvent);
+}
+function onEvent(e){
+    if(e.type == 'ended') {
+        next();
+    }
+    log(e.type);
+}
+
+function log(msg) {
+    events.innerHTML += "<div>" + msg + "</div>";
+}
+var vid = 0;
+function next() {
+    vid = (vid+1)%vids.length;
+    video.src = vids[vid];     video.load();
+    video.play();
+}
+</script>
+<div id="events">
+</div>				
+
+</body>
+</html>

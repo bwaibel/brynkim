@@ -1,0 +1,61 @@
+.photos
+{
+	margin:10px auto;
+	width:400px;
+	border:solid 1px #262626;
+	background-color:#333;
+}
+.photos div
+{
+    margin:0;
+    padding:0;
+}
+.photos .photonav ul.list
+{
+	list-style-type:none;
+	white-space:nowrap;
+	overflow:hidden;
+	width:0px;
+	padding:0 125px;
+	background-color:#262626;
+	margin:0 auto;
+}
+
+.photonav .capL{background-color:#262626;width:350px;margin:0px auto;padding-left:6px;background-image:url(../img/cap_left.png);background-repeat:no-repeat;}
+.photonav .capR
+{
+	background-image:url(../img/caps_right.png);
+	padding-right:6px;background-position:right top;background-repeat:no-repeat;}
+	
+.photonav .ctrlL{float:left;padding:0;margin:0;}	
+.photonav .ctrlR{float:right;padding:0;margin:0;}	
+
+.photonav ul.list li{margin:0;padding:0;display:inline;}
+.photonav ul.list li a{margin:4px;border:solid 1px #a9ab9f;display:inline-block;}
+.photonav ul.list li a.active{border:solid 1px #a85c13;}
+.photos .photonav img{margin:0;padding:0;border:none;}
+.photonav{margin:0;padding:4px;}
+.photos .photo img
+{
+    padding:0;
+    border:none;
+	cursor:hand;
+	margin:auto;
+	display:block;
+}
+
+
+.button
+{
+	padding:0;
+	margin:4px auto;
+	display:inline-block;
+}
+
+.button img
+{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
